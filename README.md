@@ -1,8 +1,17 @@
-### Hi there 👋
+Hello, hello, hellow 👋
 
-<!--
+Tenho 35 anos, moro em SP/Capital e estudante de ADS(Análise e Desenvolvimento de Sistemas) - Gosto muito do universo de criação do FrontEnd e conheço outras linguagens também! <br />
+Aprendiz e curiosa eterna... A cada dia me esforço mais e um passo de cada vez! ❤
+
+🖥️ Tecnologias: HTML | CSS | JavaScript | BootStrap; <br />
+🌱 Aprendendo: React e finalizando um TCC em Android; <br />
+🤔 Aprofundando: em JS e afins; <br />
+⚡ Curiosidades: prefiro ficar de meais do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos! <br />
+
+📫 Um pouco mais do meu profissional no LinkedIn: https://www.linkedin.com/in/rafaelasaori/
+<!-- 
 **rafakabuchi/rafakabuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
