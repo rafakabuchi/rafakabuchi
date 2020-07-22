@@ -8,11 +8,11 @@ Aprendiz e curiosa eterna... A cada dia me esforço mais e um passo de cada vez!
 ___
 
 
-🖥️ Tecnologias: **HTML | CSS | JavaScript | BootStrap;**
-🌱 Aprendendo: React e finalizando um TCC em Android;
-🤔 Aprofundando: em JS e afins;
-⚡ Curiosidades: prefiro ficar de meias do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos!
-❤️ Lover: Spice Girls, tecnologias, pizzas e frio!
+🖥️ Tecnologias: **HTML | CSS | JavaScript | BootStrap;**<br>
+🌱 Aprendendo: React e finalizando um TCC em Android;<br>
+🤔 Aprofundando: em JS e afins;<br>
+⚡ Curiosidades: prefiro ficar de meias do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos!<br>
+❤️ Lover: Spice Girls, tecnologias, pizzas e frio!<br>
 
 📫 conheça mais:
 * meu html: https://rafakabuchi.github.io/
