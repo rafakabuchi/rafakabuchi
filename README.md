@@ -25,7 +25,7 @@ ___
 
 * /contact: https://msng.link/o/?SaoriKabuchi=tg
 
-![texto alternativo](https://i.imgur.com/uJyofMN.gif)
+![texto alternativo](https://media0.giphy.com/media/IL4iTvQH0MjS/giphy.gif)
 
 <!-- 
 **rafakabuchi/rafakabuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
