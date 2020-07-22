@@ -1,15 +1,29 @@
-Hello, hello, hellow ~world~ 👋
+# Hello, hello, hellow ~world~ 👋
+___
 
-Tenho 35 anos, moro em SP/Capital e estudante de ADS(Análise e Desenvolvimento de Sistemas) - Gosto muito do universo de criação do FrontEnd e conheço outras linguagens também! <br />
+Tenho 35 anos, moro em SP/Capital e estudante de ADS(Análise e Desenvolvimento de Sistemas) - Gosto muito do universo de criação do FrontEnd e conheço outras linguagens também! 
+
 Aprendiz e curiosa eterna... A cada dia me esforço mais e um passo de cada vez! ❤
 
-🖥️ Tecnologias: HTML | CSS | JavaScript | BootStrap; <br />
-🌱 Aprendendo: React e finalizando um TCC em Android; <br />
-🤔 Aprofundando: em JS e afins; <br />
-⚡ Curiosidades: prefiro ficar de meias do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos! <br />
+___
+
+
+🖥️ Tecnologias: **HTML | CSS | JavaScript | BootStrap;**
+🌱 Aprendendo: React e finalizando um TCC em Android;
+🤔 Aprofundando: em JS e afins;
+⚡ Curiosidades: prefiro ficar de meias do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos!
 ❤️ Lover: Spice Girls, tecnologias, pizzas e frio!
 
-📫 Um pouco mais do meu profissional no LinkedIn: https://www.linkedin.com/in/rafaelasaori/
+📫 conheça mais:
+* meu html: https://rafakabuchi.github.io/
+
+* meu css: https://instagram.com/todagatagarota/
+
+* meu javascript: https://linkedin.com/in/rafaelasaori/
+
+* /jobs: https://linkedin.com/in/rafaelasaori/
+
+* /contact: https://msng.link/o/?SaoriKabuchi=tg
 
 ![texto alternativo](https://i.imgur.com/uJyofMN.gif)
 
