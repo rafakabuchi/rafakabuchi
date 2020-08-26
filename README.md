@@ -1,15 +1,14 @@
 # Hello, hello, hellow ~world~ 👋
 ___
 
-Tenho 35 anos, moro em SP/Capital e estudante de ADS(Análise e Desenvolvimento de Sistemas) - Gosto muito do universo de criação do FrontEnd e conheço outras linguagens também! 
-
+Tenho 35 anos, moro em SP/Capital, formada em ADS(Análise e Desenvolvimento de Sistemas) e estudante de Informática para Internet(WEB) - Gosto muito do universo de criação do FrontEnd e conheço outras linguagens também! 
 Aprendiz e curiosa eterna... A cada dia me esforço mais e um passo de cada vez! ❤
 
 ___
 
 
 🖥️ Tecnologias: **HTML | CSS | JavaScript | BootStrap;**<br>
-🌱 Aprendendo: React e finalizando um TCC em Android;<br>
+🌱 Aprendendo: React e demais firulas;<br>
 🤔 Aprofundando: em JS e afins;<br>
 ⚡ Curiosidades: prefiro ficar de meias do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos!<br>
 ❤️ Lover: Spice Girls, tecnologias, pizzas e frio!<br>
