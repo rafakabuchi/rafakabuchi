@@ -24,6 +24,9 @@ ___
 
 * /contact: https://msng.link/o/?SaoriKabuchi=tg
 
+### 📊 minha atividade no github:
+![Saori's github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafakabuchi&layout=compact&theme=dracula)
+
 ![texto alternativo](https://media0.giphy.com/media/IL4iTvQH0MjS/giphy.gif)
 
 <!-- 
