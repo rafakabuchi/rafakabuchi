@@ -14,7 +14,7 @@ ___
 ❤️ Lover: Spice Girls, tecnologias, pizzas e frio!<br>
 
 📫 conheça mais:
-* meu html: https://rafaelasaori.com.br/
+* meu html: https://rafakabuchi.github.io/
 
 * meu css: https://instagram.com/todagatagarota/
 
