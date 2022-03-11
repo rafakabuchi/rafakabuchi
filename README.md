@@ -16,7 +16,7 @@ ___
 📫 conheça mais:
 * meu html: https://rafakabuchi.github.io/
 
-* meu css: https://instagram.com/todagatagarota/
+* meu css: https://www.instagram.com/saorikabuchi/
 
 * meu javascript: https://linkedin.com/in/rafaelasaori/
 
