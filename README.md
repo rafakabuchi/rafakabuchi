@@ -1,7 +1,7 @@
 # Hello, hello, hellow ~world~ 👋
 ___
 
-Tenho 36 anos, moro em SP/Capital, formada em ADS(Análise e Desenvolvimento de Sistemas) e Informática para Internet(WEB) - Gosto muito do universo de criação do FrontEnd, backEnd, Mobile, etc... 
+Tenho 37 anos, moro em SP/Capital, formada em ADS(Análise e Desenvolvimento de Sistemas) e Informática para Internet(WEB) - Gosto muito do universo de criação do FrontEnd, backEnd, Mobile, etc... 
 Aprendiz e curiosa eterna... A cada dia me esforço mais e um passo de cada vez! ❤
 
 ___
