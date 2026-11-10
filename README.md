@@ -1,26 +1,28 @@
-# Hello, hello, hellow ~world~ 👋
+# Olá! Eu sou a Saori Kabuchi 👋
+Front-end Developer | React · Angular · Next.js
 ___
 
-Tenho 37 anos, moro em SP/Capital, formada em ADS(Análise e Desenvolvimento de Sistemas) e Informática para Internet(WEB) - Gosto muito do universo de criação do FrontEnd, backEnd, Mobile, etc... 
-Aprendiz e curiosa eterna... A cada dia me esforço mais e um passo de cada vez! ❤
+Sou desenvolvedora Front-end com experiência na construção e evolução de aplicações web e jornadas digitais, especialmente no contexto bancário.
+
+Trabalho com React, Angular, Next.js e TypeScript, atuando no desenvolvimento de interfaces, integrações com APIs e BFFs, aplicações WebView e soluções para ambientes mobile.
+
+Também tenho experiência com acessibilidade digital, testes automatizados, tagueamento, observabilidade e uso de Inteligência Artificial aplicada ao desenvolvimento de software.
+
+Acredito na tecnologia como uma ferramenta para criar experiências digitais melhores, mais acessíveis e eficientes.
 
 ___
 
 
-🖥️ Tecnologias: **HTML | CSS | JavaScript | BootStrap | Angular;**<br>
-🌱 Aprendendo: React e demais firulas;<br>
-🤔 Aprofundando: em JS e afins;<br>
-⚡ Curiosidades: prefiro ficar de meias do que de chinelos, café doce, boa jogadora no CoD, nível quase 40 no Pokemon Go e prefiro temas brancos!<br>
-❤️ Lover: Spice Girls, tecnologias, pizzas e frio!<br>
+🖥️ Tecnologias: **React | Angular | Next.js | TypeScript | JavaScript;**<br>
+🌱 Integração e arquitetura: APIs REST | BFF | WebView | SDKs e Deeplinks | GraphQL;<br>
+🤔 Qualidade e acessibilidade: WCAG | Playwright | Cypress | Testes automatizados | Design Systems;<br>
+⚡ DevOps e observabilidade: Git e GitLab | Jenkins | CI/CD | Datadog | Splunk;<br>
+❤️ Inteligência Artificial: GitHub Copilot | StackSpot | Devin | Skills e MCPs | Agentes de IA | Automação de tarefas e fluxos de desenvolvimento;<br>
 
 📫 conheça mais:
-* meu html: https://rafakabuchi.github.io/
+* 💻 Portfólio: https://rafakabuchi.github.io/
 
-* meu css: https://www.instagram.com/saorikabuchi/
-
-* meu javascript: https://linkedin.com/in/rafaelasaori/
-
-* /jobs: https://linkedin.com/in/rafaelasaori/
+* 💼 LinkedIn: https://linkedin.com/in/rafaelasaori/
 
 * /contact: https://msng.link/o/?SaoriKabuchi=tg
 
